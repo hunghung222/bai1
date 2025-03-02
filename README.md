@@ -12,4 +12,5 @@
 - Nhiều doanh nghiệp đang đẩy mạnh chuyển đổi số, yêu cầu các ứng dụng di động để tối ưu hóa hoạt động và tiếp cận khách hàng tốt hơn.
 - Sự phát triển của các nền tảng như 5G, điện toán đám mây sẽ giúp ứng dụng di động ngày càng mạnh mẽ và đa dạng hơn.
 
-3.![hinhbt](https://github.com/user-attachments/assets/934131d8-5026-4034-8859-0c9ca0e48da0)
+3.
+![hinhbt](https://github.com/user-attachments/assets/934131d8-5026-4034-8859-0c9ca0e48da0)
